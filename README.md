@@ -102,3 +102,4 @@ travel-split-web/
 ```
 
 Tất cả logic UI nằm trong 1 file `app/page.js` - dễ chỉnh sửa.
+
